@@ -32,7 +32,7 @@ This saves ~12 hours/month and ~$200–300 in labor costs.
 ---
 
 ## ⚙️ How It Works
-![Workflow Overview](./images/workflow.png)
+![Workflow Overview](./workflow.png)
 
 1. **Trigger:** Gmail inbox monitors new emails with keywords: *invoice*, *billing*, *statement*.  
 2. **Attachment Handling:** Extracts text from PDFs or email body.  
