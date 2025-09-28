@@ -67,7 +67,7 @@ This saves ~12 hours/month and ~$200–300 in labor costs.
 ---
 
 ## 🎥 Demo Video
-📌 [Insert Loom/Zoom walkthrough link here]  
+📌 [https://www.loom.com/share/15c5d26b4d7c4e14a4a3ec792b1d1a2b?sid=f5c88951-456a-49f5-bbf7-65e8e3a54690]  
 
 ---
 
