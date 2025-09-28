@@ -79,8 +79,7 @@ This saves ~12 hours/month and ~$200–300 in labor costs.
 
 ---
 
-## 📢 Testimonials / Use Cases
-- Novus Realty pilot: 50 invoices processed in 1 month → 12 hours saved.  
+## 📢 Testimonials / Use Cases 
 - Can be adapted for receipts, purchase orders, or expense tracking.  
 
 ---
