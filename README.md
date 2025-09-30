@@ -18,9 +18,8 @@ Each automation includes:
 | Automation Title | Category | Size | Description |
 |------------------|----------|------|-------------|
 | [📄 Invoice Inbox Automation](./invoice-inbox/README.md) | Operations / Finance | Medium | Monitors Gmail inbox for invoices, extracts details using AI, and logs them into Google Sheets. |
-| *(Coming soon)* Slack-to-Google Sheets Meeting Logger | Operations / Team Productivity | Small | Logs meeting notes from Slack into Google Sheets for centralized record-keeping. |
-| *(Coming soon)* CRM Deal Notifier | Sales | Medium | Sends Slack/Email alerts whenever a new deal is added to CRM. |
-
+| [📄 Lead Capture and Enrichment](./lead-capture-enrichment/README.md) | Sales | Medium | Automates lead intake from forms, enriches company details, stores in CRM, and sends Slack/Email alerts to the sales team. |
+| [📄 Social Media Post Scheduler](./social-media-scheduler/README.md) | Marketing | Medium | Allows scheduling of posts across multiple social media platforms, automates publishing, and provides a content calendar view. |
 ---
 
 ## 🚀 How to Use
