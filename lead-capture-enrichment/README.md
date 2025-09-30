@@ -33,7 +33,7 @@ Currently, SDRs manually research leads on LinkedIn and other sources. This auto
 
 ### ⚙️ How It Works
 - **Trigger:** New lead added to CRM or Google Sheet.  
-- **API Calls:** Uses enrichment APIs (Clearbit, Apollo, People Data Labs).  
+- **API Calls:** Uses enrichment APIs (Hunter.io).  
 - **Email Verification:** Validates emails to reduce bounce rates.  
 - **Data Update:** Appends enriched data into CRM/Sheets.  
 - **Notification:** Slack/Discord message with enriched lead details.  
