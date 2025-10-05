@@ -12,7 +12,7 @@ This automation tracks contract expiry dates, sends proactive renewal reminders,
 
 ## 🏷️ Metadata
 - **Category:** Operations / Customer Success  
-- **Size Classification:** Medium (4–5 tasks)  
+- **Size Classification:** Medium (2–5 tasks)  
 - **Deployment Time:** 3–6 hours  
 - **Version:** v1.0  
 
